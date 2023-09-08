@@ -1,9 +1,11 @@
-public class ClassExample
-{
-    public int numberCount;
+using System;
 
-    public void () 
+class Program
+{
+    static void Main()
     {
-        Console.WriteLine ("Hellow World")
+        // Output "Hello, World!" to the console
+        Console.WriteLine("Hello, World!");
+
     }
 }
